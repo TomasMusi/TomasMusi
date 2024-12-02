@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **tomas.musilmt@gmail.com**
 
-- ⚡ Fun fact **I enjoy doing powerlifting as my hobby!**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/tomasmusil2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tomasmusil2" height="30" width="40" /></a>
