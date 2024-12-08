@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Tomáš Musil</h1>
 <h3 align="center">👋 Hi! I’m a high school student from the Czech Republic 🇨🇿 passionate about programming 💻, currently learning C++ while improving my frontend and backend skills 🌐, exploring hardware 🛠️, and powerlifting 🏋️‍♂️ as my hobby! 🚀</h3>
 
-- 🌱 I’m currently learning **C++, Typescript**
+- 🌱 I’m currently learning **C++, Typescript, Sveltekit**
 
 - 📫 How to reach me **tomas.musilmt@gmail.com**
 
