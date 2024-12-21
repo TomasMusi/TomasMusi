@@ -10,7 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<!-- Instagram -->
 <a href="https://instagram.com/tomasmusil2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram @tomasmusil2" height="30" width="40" /></a> <a href="https://discord.com/users/981244350656831498" target="blank"><img align="center" src="https://camo.githubusercontent.com/39a6b02a59b2e1ae634201e9a6aecdd7e51d7f419bea9b5cd4922028b22644ef/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="discord: thomasassasins" height="30" width="40" /></a>
+<a href="https://t.me/Thomasassasins" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="telegram: thomasassasins" height="30" width="40" /></a>
 </p>
 
 <!--
@@ -18,7 +21,7 @@ Add contanct
 
 <a href="LINK" target="blank"><img align="center" src="LOGO" alt="NAME" height="30" width="40" /></a>
 
-<a href="https://discord.com/users/981244350656831498" target="blank"><img align="center" src="https://camo.githubusercontent.com/39a6b02a59b2e1ae634201e9a6aecdd7e51d7f419bea9b5cd4922028b22644ef/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="discord: thomasassasins" height="30" width="40" /></a>
+<a href="https://t.me/Thomasassasins" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="telegram: thomasassasins" height="30" width="40" /></a>
 
 
 
