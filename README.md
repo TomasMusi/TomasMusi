@@ -2,8 +2,6 @@
 
 **High School Student | Backend Developer | Aspiring Full-Stack Engineer | Future Engineering Student**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMusi&layout=compact&hide=html&theme=default)](https://github.com/TomasMusi)
-
 ---
 
 ## About Me
@@ -57,3 +55,6 @@ My diverse experiences have shaped me into a well-rounded individual who values 
 I am always open to collaboration, knowledge exchange, and exciting new challenges. Feel free to explore my repositories and reach out if you're interested in working together or simply having a thoughtful conversation about technology, ideas, or future projects.
 
 ---
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMusi&layout=compact&hide=html&theme=default)](https://github.com/TomasMusi)
