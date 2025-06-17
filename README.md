@@ -2,7 +2,7 @@
 
 **High School Student | Backend Developer | Aspiring Full-Stack Engineer | Future Engineering Student**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMusi&layout=compact&hide=html&theme=default)](https://github.com/TomasMusi)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMusi&layout=compact&hide=html&theme=dark)](https://github.com/TomasMusi)  
 
 ---
 
@@ -16,12 +16,28 @@ My journey in IT began at a very young age—I built my first computer when I wa
 
 ## 🛠️ Technical Skills
 
-- **Programming Languages:** JavaScript, TypeScript, Python, C++, C, SQL  
-- **Frameworks & Tools:** SvelteKit, React, Node.js, Express  
-- **Backend Development:** API design, server-side logic, database integration  
-- **Frontend Development:** HTML, CSS, responsive UI/UX, component-based design  
-- **3D & Media:** Blender, Adobe After Effects, Adobe Premiere Pro  
-- **Systems & Infrastructure:** Linux, server configuration, networking fundamentals, Raspberry Pi (in progress)
+**Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)  
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=fff)  
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=fff)
+
+**Tools & Platforms**  
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-ff3e00?style=flat&logo=svelte&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react&logoColor=61dafb)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=fff)  
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)  
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=fff)
+
+**Media & Design**  
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat&logo=blender&logoColor=fff)  
+![After Effects](https://img.shields.io/badge/-After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=fff)  
+![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=fff)
+
+**Systems**  
+Linux, server configuration, Raspberry Pi, networking fundamentals
 
 ---
 
@@ -36,8 +52,6 @@ I am actively working on:
 ---
 
 ## 📌 Pinned Projects
-
-Here are some of the projects that represent my recent work and interests:
 
 ### [TomFi](https://github.com/TomasMusi/TomFi)
 
