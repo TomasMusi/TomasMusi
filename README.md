@@ -1,48 +1,57 @@
-<!--**TomasMusi/TomasMusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# Tomáš Musil
 
+**High School Student | Backend Developer | Aspiring Full-Stack Engineer | Future Engineering Student**
 
-<h1 align="center">Hi 👋, I'm Tomáš Musil</h1>
-<h3 align="center">👋 Hi! I’m a high school student from the Czech Republic 🇨🇿 passionate about programming 💻, currently learning C++ while improving my frontend and backend skills 🌐, exploring hardware 🛠️, and powerlifting 🏋️‍♂️ as my hobby! 🚀</h3>
+---
 
-- 🌱 I’m currently learning **C++, Typescript, Sveltekit**
+## About Me
 
-- 📫 How to reach me **tomas.musilmt@gmail.com**
+Hello, my name is **Tomáš Musil**. I am a 17-year-old high school student with a strong passion for technology, software development, and digital creativity. My primary focus lies in **backend development**, but I am equally comfortable working on the frontend when needed. I am currently expanding my skills in **mobile, software, and web development** to become a more versatile and proficient developer.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+My journey in IT began at a very young age—I built my first computer when I was just eight years old. Since then, technology has become a core part of my identity, and I continuously strive to evolve with it. I aspire to pursue an **engineering degree** to deepen my knowledge and pursue advanced technical challenges in the future.
 
-<a href="https://instagram.com/tomasmusil2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram @tomasmusil2" height="30" width="40" /></a> <a href="https://discord.com/users/981244350656831498" target="blank">
-<img align="center" src="https://camo.githubusercontent.com/39a6b02a59b2e1ae634201e9a6aecdd7e51d7f419bea9b5cd4922028b22644ef/68747470733a2f2f63646e2e7261776769742e636f6d2f4e4e54696e2f646973636f72642d6c6f676f2f66343333333334342f7372632f6173736574732f616e696d61746564646973636f72642e737667" alt="discord: thomasassasins" height="30" width="40" /></a>
-<a href="https://t.me/Thomasassasins" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="telegram: thomasassasins" height="30" width="40" /></a>
-<a href="mailto:tomas.musilmt@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/github/explore/8f19e4dbbf13418dc1b1d58bb265953553c15a46/topics/gmail/gmail.png" alt="gmail: tomas.musilmt@gmai.com" height="30" width="40" /></a>
-</p>
+---
 
-<!--
-Add contanct 
+## Technical Skills
 
-<a href="LINK" target="blank"><img align="center" src="LOGO" alt="NAME" height="30" width="40" /></a>
+- **Programming Languages:** JavaScript, TypeScript, Python, C++, C, SQL
+- **Frameworks & Tools:** SvelteKit, React, Node.js, Express
+- **Backend Development:** API design, server-side logic, database integration
+- **Frontend Development:** HTML, CSS, responsive UI/UX, component-based design
+- **3D & Media:** Blender, Adobe After Effects, Adobe Premiere Pro
+- **Systems & Infrastructure:** Linux, server configuration, networking fundamentals, Raspberry Pi (in progress)
 
-<a href="https://t.me/Thomasassasins" target="blank"><img align="center" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="telegram: thomasassasins" height="30" width="40" /></a>
+---
 
+## Current Focus
 
+I am actively working on:
 
+- Advancing my **software and mobile development** skills
+- Deepening my expertise in **modern web development**
+- Learning more about **networking, server configurations, Linux systems**, and **embedded development with Raspberry Pi**
 
+---
 
+## Creative Interests
 
- -->
+Beyond programming, I find inspiration in visual and narrative creativity. I enjoy designing **3D models**, editing **videos**, and building interactive user experiences. These interests help me think beyond code and apply technology in expressive and meaningful ways.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/sveltejs/branding/refs/heads/master/svelte-logo-square.png" alt="SvelteKit" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="www.adobe.com/cz/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ImOpNis/AfterEffects-Logo/refs/heads/main/After%20Effects_Logo.svg" alt="After Effects" width="40" height="40"/> </a> <a href="https://www.adobe.com/cz/products/premiere/campaign/pricing.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/TaranVH/LOGOS/refs/heads/master/Premiere%20Adobe%20NLE.png" alt="Adobe Premiere Pro" width="40" height="40"/> </a>   </p>
+---
 
+## Personal Background
 
-<!-- 
+In addition to my technical and creative pursuits, I have a wide range of personal interests:
 
-Commect for adding another skills
+- **Combat & Team Sports:** Wrestling, Boxing, Muay Thai, Grappling, Judo, Floorball, Handball  
+- **Humanities & Personal Growth:** History, Reading, Philosophy, Theology, Business
 
-<a href="link to the skill" target="_blank" rel="noreferrer"> <img src="Logo of the skill" alt="Name of the skill" width="40" height="40"/> </a> 
+My diverse experiences have shaped me into a well-rounded individual who values both **critical thinking** and **creative expression**. The discipline gained through sports and the insights drawn from the humanities deeply influence how I approach problem-solving and continuous improvement.
 
-<a href="www.adobe.com/cz/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ImOpNis/AfterEffects-Logo/refs/heads/main/After%20Effects_Logo.svg" alt="After Effects" width="40" height="40"/> </a> 
+---
 
- -->
+## Let's Connect
 
+I am always open to collaboration, knowledge exchange, and exciting new challenges. Feel free to explore my repositories and reach out if you're interested in working together or simply having a thoughtful conversation about technology, ideas, or future projects.
 
+---
