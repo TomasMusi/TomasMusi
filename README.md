@@ -2,6 +2,8 @@
 
 **High School Student | Backend Developer | Aspiring Full-Stack Engineer | Future Engineering Student**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TomasMusi&layout=compact&hide=html&theme=default)](https://github.com/TomasMusi)
+
 ---
 
 ## About Me
