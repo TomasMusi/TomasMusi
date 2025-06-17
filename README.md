@@ -57,7 +57,7 @@ Key Features:
 
 > This project significantly contributed to my growth as a developer by deepening my understanding of secure backend systems, encryption, data validation, and clean architecture in a full-stack environment.
 
-### [ProjectName2](https://github.com/TomasMusi/TomFi-DesktopApp)
+### [TomFi - Desktop APP](https://github.com/TomasMusi/TomFi-DesktopApp)
 
 A native desktop version of the TomFi banking app, written in **C++** using **GTKmm** and featuring Discord integration, secure login, and modular architecture.
 
