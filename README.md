@@ -98,7 +98,7 @@ Beyond programming, I find inspiration in visual and narrative creativity. I enj
 
 In addition to my technical and creative pursuits, I have a wide range of personal interests:
 
-- **Combat & Team Sports:** Wrestling, Boxing, Muay Thai, Grappling, Judo, Floorball, Handball  
+- **Combat & Team Sports:** Wrestling, Boxing, Muay Thai, Grappling, Judo, Floorball, Handball, Powerlifting, Calisthenics  
 - **Humanities & Personal Growth:** History, Reading, Philosophy, Theology, Business
 
 My diverse experiences have shaped me into a well-rounded individual who values both **critical thinking** and **creative expression**. The discipline gained through sports and the insights drawn from the humanities deeply influence how I approach problem-solving and continuous improvement.
