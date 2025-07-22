@@ -60,12 +60,15 @@ I am actively working on:
 **Tech Stack:** SvelteKit, TypeScript, MariaDB, TailwindCSS, AES/RSA encryption, SQL transactions
 
 Key Features:
-- Virtual credit card creation  
-- PIN-secured operations  
-- Custom avatars and QR payments  
-- Two-Factor Authentication (2FA)  
-- Full transaction system with analytics  
-- Electron-based desktop app (in progress)
+- Virtual credit card creation & management
+- Symmetric & asymmetric encryption (AES + RSA) 
+- PIN-secured operations with backend validatio 
+- Two-Factor Authentication (2FA) 
+- Full transaction system with charts & analytics  
+- QR code-based payment system
+
+
+
 
 > This project significantly contributed to my growth as a developer by deepening my understanding of secure backend systems, encryption, data validation, and clean architecture in a full-stack environment.
 
@@ -78,11 +81,11 @@ A native desktop version of the TomFi banking app, written in **C++** using **GT
 **Tech Stack:** C++17, GTKmm 3.0, bcrypt, Discord Rich Presence, CMake, custom `.env` loader
 
 Key Features:
-- Native GTK-based interface with CSS-like styling  
-- Secure registration and login (bcrypt)  
-- Discord Rich Presence for live status updates  
-- Form validation and error handling  
-- Future plans: SQLite storage, full dashboard, web sync
+- Full-featured desktop GUI built with GTKmm and modular component architecture 
+- Native Two-Factor Authentication (2FA) setup with TOTP secret generation and QR export  
+- Cross-platform database transaction system with rollback via MySQL prepared statements 
+- C++ integration with WebKit for dynamic, interactive HTML/JS analytics rendering  
+- End-to-end RSA encryption for real-time PIN decryption using private keys
 
 > This project helped me bridge the gap between low-level system programming and user-friendly GUI applications while deepening my C++ knowledge.
 
