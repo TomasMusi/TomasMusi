@@ -18,7 +18,8 @@ My journey in IT began at a very young age—I built my first computer when I wa
 
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=fff)  
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=fff)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=fff)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
