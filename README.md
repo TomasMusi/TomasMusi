@@ -15,7 +15,6 @@ My journey in IT began at a very young age—I built my first computer when I wa
 ---
 
 ## 🛠️ Technical Skills
-
 **Languages & Frameworks**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=fff)
@@ -33,10 +32,10 @@ My journey in IT began at a very young age—I built my first computer when I wa
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=fff)  
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=fff) 
-
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=fff)  
 ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat&logo=qt&logoColor=fff)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=fff)  
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=fff)  
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberrypi&logoColor=fff)  
 
 **Systems**  
