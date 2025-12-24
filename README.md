@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-Hello, my name is **Tomáš Musil**. I am a 17-year-old high school student with a strong passion for technology, software development, and digital innovation. My primary focus lies in **software engineering and backend development**, with growing expertise in **desktop applications, embedded systems, and machine learning/AI**.  
+Hello, my name is **Tomáš Musil**. I am a 18-year-old high school student with a strong passion for technology, software development, and digital innovation. My primary focus lies in **software engineering and backend development**, with growing expertise in **desktop applications, embedded systems, and machine learning/AI**.  
 
 My journey in IT began at a very young age—I built my first computer when I was just eight years old. Since then, technology has become a core part of my identity, and I continuously strive to evolve with it. I aspire to pursue an **engineering degree** to deepen my knowledge and take on advanced technical challenges in the future.  
 
