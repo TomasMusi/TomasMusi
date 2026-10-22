@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <b>Currently:</b> building AI agents @ <b>HAVEL & PARTNERS</b>
+  <b>Currently:</b> Working For <b>HAVEL & PARTNERS</b>
   <br />
   <sub>Brno, Czech Republic · Open to new projects</sub>
 </p>
