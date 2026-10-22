@@ -63,7 +63,7 @@ Outside of the web I'm into **embedded systems**, desktop apps and **ML/AI** —
 > ### Full-Stack Developer · **HAVEL & PARTNERS**
 > `Oct 2025 – Present` · Part-time · hybrid &nbsp;![current](https://img.shields.io/badge/current-ff6a2b?style=flat-square)
 >
-> - Building **AI agents** that automate the processing of insolvency case files.
+> - Building **AI agents**.
 > - Developing frontend and backend of the firm's internal legal software, used by lawyers across the entire firm.
 >
 > ![C#](https://img.shields.io/badge/C%23-1b1e19?style=flat-square) ![Python](https://img.shields.io/badge/Python-1b1e19?style=flat-square) ![React](https://img.shields.io/badge/React-1b1e19?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-1b1e19?style=flat-square) ![Azure](https://img.shields.io/badge/Azure-1b1e19?style=flat-square)
