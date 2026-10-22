@@ -26,8 +26,6 @@
 
 ## `> whoami`
 
-<img align="right" src="https://tomasmusi.github.io/media/portrait-sm.webp" alt="Tomáš Musil — portrait" width="190" />
-
 IT high school student with hands-on experience as a **full-stack developer**, working mainly with **C#/.NET, React and TypeScript**. C# is my favourite.
 
 Outside of the web I'm into **embedded systems**, desktop apps and **ML/AI** — most of my free time goes into projects with Arduino and Raspberry Pi.
