@@ -1,9 +1,5 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0d0b,55:1b1e19,100:ff6a2b&height=220&section=header&text=Tom%C3%A1%C5%A1%20Musil&fontColor=eceae2&fontSize=64&fontAlignY=36&desc=Software%20%26%20Backend%20Developer%20%C2%B7%20Brno%2C%20Czech%20Republic&descSize=18&descAlignY=58&descColor=9b9c91&animation=fadeIn" alt="Tomáš Musil — Software & Backend Developer" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://tomasmusi.github.io/en/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=FF6A2B&center=true&vCenter=true&width=640&lines=Full-stack+developer+%40+HAVEL+%26+PARTNERS;Building+AI+agents+for+legal+workflows;C%23+%2F+.NET+%C2%B7+React+%C2%B7+TypeScript;Embedded+systems+%C2%B7+Arduino+%C2%B7+LoRa;Rakathon+2026+finalist" alt="Typing intro" />
   </a>
@@ -120,7 +116,7 @@ Patients — especially oncology patients — often take many medicines from dif
 
 Research and development of satellite technology at the Faculty of Electrical Engineering and Communication, Brno University of Technology.
 
-- Programmed **communication protocols** for the satellite's firmware and implemented **LoRa radio communication** (LoRa ↔ ground station).
+- Programmed **communication protocols** for the satellite's firmware.
 - Took part in the project's design challenges and worked with the team on solutions for satellite research.
 
 > [!TIP]
